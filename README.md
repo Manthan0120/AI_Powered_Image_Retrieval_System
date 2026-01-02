@@ -82,6 +82,10 @@ The system achieves fast retrieval of visually similar images using Euclidean di
 - Modify image size in `display_results()` function
 - Retrain model with different hyperparameters in `src/model.py`
 
+## Streamlit Interface
+<img width="1825" height="923" alt="Screenshot 2026-01-01 181251" src="https://github.com/user-attachments/assets/90d870f7-10c4-4732-ac94-322ce9a49762" />
+
+
 ## 📚 Dependencies
 
 ```
